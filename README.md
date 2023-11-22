@@ -1,4 +1,6 @@
 # shopping_list
+Tautan build: <br>
+[![Build status](https://build.appcenter.ms/v0.1/apps/ea494cfc-f213-44c2-a6a5-7727b54304b2/branches/master/badge)](https://appcenter.ms)
 
 A new Flutter project.
 
